@@ -10,6 +10,7 @@ Our capstone is lead by professor Tiffany Amariuta. Please refer to the [website
 Please refer to this [yml file](https://github.com/Elijahzyp/dsc180_prs_project/blob/main/environment.yml) to get the details of our project dependencies. 
 
 ## Data
+Our datasets are too big for GitHub. So we uploaded all the datasets to Google Drive and here are links to the datasets.
 
 1000 Genome Project Plink File
 
