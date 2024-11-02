@@ -260,4 +260,4 @@ dependencies:
       - xxhash==3.4.1
       - yarl==1.9.4
       - zstandard==0.23.0
-prefix: /Users/kevinmbp/miniforge3/envs/dsc80
+
