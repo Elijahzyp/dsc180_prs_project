@@ -1,4 +1,4 @@
-name: dsc80
+name: dsc180
 channels:
   - bioconda
   - r
