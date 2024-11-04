@@ -1,3 +1,7 @@
+
+## This file include the information that how Tiffany would perform a prs
+
+
 p_val=0.0001
 r2=0.1
 plink --bfile 1000G_eur_train_${gene} --clump-p1 $p_val --clump-r2 $r2 --clump-kb 250 --clump ${eqtl_sumstats_file} --clump-snp-field SNP --clump-field P --out 1000G_eur_train_${gene}
