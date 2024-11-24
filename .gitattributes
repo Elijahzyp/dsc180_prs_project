@@ -1,1 +1,5 @@
 1000G_combined.bed filter=lfs diff=lfs merge=lfs -text
+asthma.gz filter=lfs diff=lfs merge=lfs -text
+final_combined.bed.gz filter=lfs diff=lfs merge=lfs -text
+prs_for_asthma.nopred filter=lfs diff=lfs merge=lfs -text
+final_combined.bed filter=lfs diff=lfs merge=lfs -text
