@@ -1,0 +1,27 @@
+PLINK v1.9.0-b.7.6 64-bit (13 Oct 2024)
+Options in effect:
+  --bfile data/test_combined
+  --out data/prs/prs_result/PRS_test_p0.01_geneENSG00000177000
+  --score data/prs/p0.01_geneENSG00000177000_score_file.txt 1 2 3
+
+Hostname: Kevins-MacBook-Pro-2.local
+Working directory: /Users/kevinmbp/Desktop/DSC180/PRS_Final
+Start time: Sat Nov 23 21:07:18 2024
+
+Random number seed: 1732424838
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+1190321 variants loaded from .bim file.
+86 people (0 males, 0 females, 86 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+data/prs/prs_result/PRS_test_p0.01_geneENSG00000177000.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 86 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+1190321 variants and 86 people pass filters and QC.
+Note: No phenotypes present.
+--score: 16 valid predictors loaded.
+--score: Results written to
+data/prs/prs_result/PRS_test_p0.01_geneENSG00000177000.profile .
+
+End time: Sat Nov 23 21:07:18 2024

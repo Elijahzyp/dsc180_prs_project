@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.7.6 64-bit (13 Oct 2024)
+Options in effect:
+  --bfile data/train_combined
+  --clump data/output/eqtl_sumstats.txt
+  --clump-field P-value
+  --clump-kb 250
+  --clump-p1 0.001
+  --clump-r2 0.8
+  --clump-snp-field SNP
+  --out data/output/p0.001_geneENSG00000177000
+
+Hostname: Kevins-MacBook-Pro-2.local
+Working directory: /Users/kevinmbp/Desktop/DSC180/PRS_Final
+Start time: Sat Nov 23 20:46:42 2024
+
+Random number seed: 1732423602
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+1190321 variants loaded from .bim file.
+258 people (0 males, 0 females, 258 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to data/output/p0.001_geneENSG00000177000.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 258 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+1190321 variants and 258 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 6 clumps formed from 40 top variants.
+Results written to data/output/p0.001_geneENSG00000177000.clumped .
+
+End time: Sat Nov 23 20:46:43 2024
