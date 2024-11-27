@@ -1,0 +1,29 @@
+PLINK v1.9.0-b.7.6 64-bit (13 Oct 2024)
+Options in effect:
+  --allow-extra-chr
+  --bfile data/final_combined
+  --out data/profile/prs_for_hight
+  --score data/prs/hight_data.txt 1 2 3
+
+Hostname: Kevins-MacBook-Pro-2.local
+Working directory: /Users/kevinmbp/Desktop/DSC180/Make_Graph
+Start time: Sat Nov 23 22:40:50 2024
+
+Random number seed: 1732430450
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+1515340 variants loaded from .bim file.
+490 people (0 males, 1 female, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to data/profile/prs_for_hight.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 490 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.747417.
+1515340 variants and 490 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 360719 lines skipped in --score file (278860 due to variant ID
+mismatch, 81859 due to allele code mismatch); see
+data/profile/prs_for_hight.nopred for details.
+--score: 168784 valid predictors loaded.
+--score: Results written to data/profile/prs_for_hight.profile .
+
+End time: Sat Nov 23 22:40:51 2024

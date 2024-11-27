@@ -1,0 +1,29 @@
+PLINK v1.9.0-b.7.6 64-bit (13 Oct 2024)
+Options in effect:
+  --bfile data/train_combined
+  --extract data/prs/PRS.SNPs.p0.01_geneENSG00000177000
+  --make-bed
+  --out data/output/1000G_eur_PRS_p0.01_geneENSG00000177000
+
+Hostname: Kevins-MacBook-Pro-2.local
+Working directory: /Users/kevinmbp/Desktop/DSC180/PRS_Final
+Start time: Sat Nov 23 20:52:10 2024
+
+Random number seed: 1732423930
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+1190321 variants loaded from .bim file.
+258 people (0 males, 0 females, 258 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+data/output/1000G_eur_PRS_p0.01_geneENSG00000177000.nosex .
+--extract: 16 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 258 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+16 variants and 258 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to data/output/1000G_eur_PRS_p0.01_geneENSG00000177000.bed +
+data/output/1000G_eur_PRS_p0.01_geneENSG00000177000.bim +
+data/output/1000G_eur_PRS_p0.01_geneENSG00000177000.fam ... done.
+
+End time: Sat Nov 23 20:52:10 2024

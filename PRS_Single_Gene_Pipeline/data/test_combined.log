@@ -1,0 +1,27 @@
+PLINK v1.9.0-b.7.6 64-bit (13 Oct 2024)
+Options in effect:
+  --bfile data/1000G_combined
+  --keep test_ids.txt
+  --make-bed
+  --out data/test_combined
+
+Hostname: Kevins-MacBook-Pro-2.local
+Working directory: /Users/kevinmbp/Desktop/DSC180/PRS_Final
+Start time: Sat Nov 23 16:09:30 2024
+
+Random number seed: 1732406970
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+1190321 variants loaded from .bim file.
+489 people (0 males, 0 females, 489 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to data/test_combined.nosex .
+--keep: 86 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 86 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is exactly 1.
+1190321 variants and 86 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to data/test_combined.bed + data/test_combined.bim +
+data/test_combined.fam ... done.
+
+End time: Sat Nov 23 16:09:31 2024
