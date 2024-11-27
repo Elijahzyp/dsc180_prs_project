@@ -32,11 +32,21 @@ Gene Assembly
 
 https://drive.google.com/file/d/1KZ2TMokSjfCJ33Cgm7uYZYEDQkVMsS_H/view?usp=drive_link
 
-Height GWAS
+Height GWAS Summary Statistics
 
 https://drive.google.com/file/d/16eWxZxwjfbeNY6qfmPCl-tNMYF3blYnr/view?usp=drive_link
 
-working on it..
+Ankylosing Spondylitis GWAS Summary Statistics
+
+https://drive.google.com/file/d/1mreVcKG-R8NIPr6BvSDZrv7BXvLEMV0k/view?usp=sharing
+
+Child_Onset_Asthma GWAS Summary Statistics
+
+https://drive.google.com/file/d/1KhrCmHg08br9UiIzaGB_CZlQJDtNoG1O/view?usp=sharing
+
+ATAC-seq dataset for B cells
+
+https://drive.google.com/file/d/1Qz8bX54PBC6dfY91MNkuipj4l0ZpLQ07/view?usp=sharing
 
 ## Commands to reproduce
 
