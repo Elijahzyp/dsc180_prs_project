@@ -1,7 +1,7 @@
 ## Build and validate a PRS model
 
 
-This part of the repo stored all of the file that are needed for the following steps. Please refer to [this notebook](PRS_Single_Gene_Pipeline/prs_final.ipynb) for the details of each step. 
+This part of the repo stored all of the file that are needed for the following steps. Please refer to [this notebook](prs_final.ipynb) for the details of each step. 
 
 1. **Prepare Data**: Download the 1000 Genomes Project PLINK files, gene expression data, gene annotation data, and GWAS summary statistics, ensuring all files are organized in the same directory.
 
