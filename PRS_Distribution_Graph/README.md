@@ -1,4 +1,4 @@
-## Plot the data of a individual
+## Plot the data of an individual
 
 
 This part of the repo stored all of the file that are needed for the following steps. Please refer to [this notebook](prs_graph.ipynb) for the details of each step. 
