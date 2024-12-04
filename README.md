@@ -107,6 +107,9 @@ https://drive.google.com/file/d/1Qz8bX54PBC6dfY91MNkuipj4l0ZpLQ07/view?usp=shari
 11. **Interpret Results**: Summarize findings through statistical analysis, visualizations, and population-level comparisons for traits like height, asthma, and ankylosing spondylitis.
 
 
+For Steps 1 to 8, please refer to [this notebook](PRS_Single_Gene_Pipeline/prs_final.ipynb)
+For Steps 9 to 11, please refer to [this notebook](PRS_Distribution_Graph/Graph.ipynb)
+
 
 ## Commands to reproduce
 
