@@ -114,12 +114,22 @@ For Steps 9 to 11, please refer to [this notebook](PRS_Distribution_Graph/Graph.
 
 ## Commands to reproduce
 
-Please refer to data_combine.sh to get to know how to combine individual genomic data with a group
+Please refer to [data_combine.sh](data_combine_script/data_combine.sh) to get to know how to combine individual genomic data with a group
 
-Please refer to prep_prs to get to know how to convert a gwas data into correct format.
+Please refer to [prep_prs.py](PRS_Distribution_Graph/prep_prs.py) to get to know how to convert a gwas data into correct format.
 
-Please refer to PRS.sh to get to know how to perform a final PRS calcualtion.
+Please refer to [PRS.sh](data_combine_script/PRS.sh) to get to know how to perform a final PRS calcualtion.
 
-Please refer to prs_graph.py to get to know how to make a graph based on your previous output
+Please refer to [prs_graph.py](PRS_Distribution_Graph/prs_graph.py) to get to know how to make a graph based on your previous output
 
-Readme. On Construction...
+## Graphs
+
+
+![eQTL for Gene MTHFR](graph/MTHFR.png)
+![eQTL for Gene SAMD11](graph/SAMD11.png)
+![PRS for Height](graph/height.png)
+![PRS for Asthma](graph/Asthma.png)
+![PRS for AS](graph/AS.png)
+
+
+
